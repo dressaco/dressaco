@@ -6,13 +6,17 @@
 ##
 
 <div id="aboutme" align="center">
+  <p><b>[PT]</b><br>Oi! Eu sou a Dressa Co(llin), tenho 28 anos e moro em São Paulo, BR. Atualmente eu sou Analista de Faturamento, estudando Análise e Desenvolvimento de Sistemas com foco em Ciência de Dados para mudar de carreira em breve. 🤓<br>
+  Eu amo aprender coisas novas, e ensinar o que eu posso também. Eu encontrei minha paixão em programação e quero compartilhar isso com o mundo todo! 🌎<br>
+  Eu sempre encontro um tempinho para uma boa conversa, então sinta-se à vontade para me contatar! 😉</p>
+  
   <p><b>[EN]</b><br>Hi! I'm Dressa Co(llin), I'm 28 years old, living in Sao Paulo, BR. Currently I'm a Billing Analyst, studying System Development with focus on Data Science for a career switch. 🤓<br>
   I love to learn something new, and to teach anything I can. I found my passion in programing and want to share it with all the world! 🌎<br>
   I can always fit a time for a good conversation so, feel free to contact me! 😉</p>
   
-  <p><b>[PT]</b><br>Oi! Eu sou a Dressa Co(llin), tenho 28 anos e moro em São Paulo, BR. Atualmente eu sou Analista de Faturamento, estudando Análise e Desenvolvimento de Sistemas com foco em Ciência de Dados para mudar de carreira em breve. 🤓<br>
-  Eu amo aprender coisas novas, e ensinar o que eu posso também. Eu encontrei minha paixão em programação e quero compartilhar isso com o mundo todo! 🌎<br>
-  Eu sempre encontro um tempinho para uma boa conversa, então sinta-se à vontade para me contatar! 😉</p>
+  <p>
+    <img align="center" alt="hiii" height="150" src="https://user-images.githubusercontent.com/64043921/132113974-4b8949dd-baf7-4867-943b-e8884746b199.gif">
+  </p>
 </div>
 
 ##
