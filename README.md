@@ -38,6 +38,6 @@
   <a href="https://www.linkedin.com/in/andressamalta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
 </div>
 
-<div>
-  ![Snake animation](https://github.com/dressaco/dressaco/blob/output/github-contribution-grid-snake.svg)
+<div id="cobrinha" align="center">
+<img Alt="Animação Cobrinha" src="https://github.com/dressaco/dressaco/blob/output/github-contribution-grid-snake.svg">
 </div>
